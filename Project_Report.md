@@ -2,14 +2,13 @@
 
 ## A Project Report
 
-**Submitted by:** Your Name  
-**Roll Number:** Your Roll Number  
-**Course:** Your Course Name  
+**Submitted by:** Meet Ravindra Koli 
+**Roll Number:** 26BME10002  
+**Course:** CSE 1021 Introduction to Problem Solving and Programming  
 **Semester:** 1st Semester  
-**College:** Your College Name  
+**College:** VIT Bhopal University  
 **Academic Year:** 2026–27
 
-> Replace the four personal placeholders above before submission.
 
 ## 1. Abstract
 This project presents a beginner-friendly weather forecasting application developed in Python. Historical daily weather observations are processed using Pandas, visualized using Matplotlib, and used to train a Linear Regression model with Scikit-learn. The model uses humidity, pressure, wind speed, and rainfall as input features and temperature as the target variable. The application evaluates the model using Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R². It also accepts new weather values from the user and produces a temperature estimate.
@@ -176,12 +175,3 @@ The project demonstrates a complete beginner-level machine-learning workflow for
 - Scikit-learn Documentation — https://scikit-learn.org/stable/
 - Dataset documentation: included dataset generation note in this repository.
 
-## 24. Submission Checklist
-- [ ] Replace personal placeholders.
-- [ ] Review dataset choice against college requirements.
-- [ ] Run `pip install -r requirements.txt`.
-- [ ] Run `pytest`.
-- [ ] Run `python src/main.py`.
-- [ ] Review generated outputs.
-- [ ] Add screenshots if your college requires them.
-- [ ] Initialize Git and push the repository.
